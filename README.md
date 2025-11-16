@@ -15,7 +15,7 @@ CUSTOMIZATION GUIDE:
 <!-- CUSTOMIZE: Change your tagline/bio here -->
 ## 🚀 About Me
 
-I'm your everyday passionate learner excited about building innovative solutions and learning new technologies. I love working with modern web technologies, AI/ML, and creating tools that make people's lives easier. I am also a father raising to kiddos and would love for them to be proud of their dad. 
+I'm your everyday passionate learner excited about building innovative solutions and learning new technologies. I love working with modern web technologies, AI/ML, and creating tools that make people's lives easier. I am also a father raising two kiddos and work hard everyday for them to be proud of their dad. 
 
 <!-- CUSTOMIZE: Add/remove/change technologies. Find more badges at shields.io -->
 ## 🛠️ Technologies & Tools
