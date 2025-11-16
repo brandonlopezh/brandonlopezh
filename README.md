@@ -51,7 +51,7 @@ TO CUSTOMIZE BADGES:
 ## 🌐 Find Me Around The Web
 
 <!-- CUSTOMIZE: Add your social media links -->
-<div align="left">
+<div style="margin-left: 40px;">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjlopez/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandolopz@gmail.com)
