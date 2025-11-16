@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/brandonlopezh/brandonlopezh/blob/main/top%20header.png" width="100%"/>
-</div>
-
 # Hi, I'm Brandon 👋
 
 <!-- CUSTOMIZE: Change your tagline/bio here -->
