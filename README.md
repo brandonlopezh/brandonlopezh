@@ -13,10 +13,10 @@ I'm your everyday passionate learner excited about building innovative solutions
 
 ## 📈 What I'm Up To
 
-- 🔭 Currently working on: **Currently working on: LLM Evaluator—building test frameworks to assess the quality and safety of AI-generated educational content**
-- 🌱 Learning: **Python**
-- 👯 Looking to collaborate on: **Looking to collaborate on educational, community, or other projects that aim to make the world a better place**
-- ⚡ Fun fact: **I've spent 7 years supporting PR Specialists in the CommTech world, and now I'm ready to use my Information Systems superpower for the greater good.**
+- 🔭 **Currently working on:** [LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test)—building test frameworks to assess the quality and safety of AI-generated educational content (see repo)
+- 🌱 **Learning:** Python
+- 👯 **Looking to collaborate on:** Educational, community, or other projects that aim to make the world a better place
+- ⚡ **Fun fact:** I've spent 7 years supporting PR Specialists in the CommTech world, and now I'm ready to use my Information Systems superpower for the greater good.
 
 ## 📊 GitHub Stats
 
