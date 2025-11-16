@@ -15,7 +15,7 @@ I'm your everyday passionate learner excited about building innovative solutions
 
 - 🔭 Currently working on: **LLM Evaluator & ArtyATS**
 - 🌱 Learning: **Python**
-- 👯 Looking to collaborate on: **Educational, Community projects**
+- 👯 Looking to collaborate on: **Educational, Community, or projects meant to make the world a better place**
 - ⚡ Fun fact: **I've been in the CommTech world providing great support to PR Specialists for 7 years. With a hidden technical super power (Information Systems Degree) up my sleeve, it's time to use my powers for the greater good**
 
 ## 📊 GitHub Stats
@@ -48,14 +48,11 @@ TO CUSTOMIZE BADGES:
 - Change style: Replace "for-the-badge" with "flat", "flat-square", or "plastic" for different looks
 -->
 
-## 🌐 Find Me Around The Web
+## 🌐 How to reach me
 
 <!-- CUSTOMIZE: Add your social media links -->
-<div style="margin-left: 40px;">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjlopez/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandolopz@gmail.com)
 
-</div>
+> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjlopez/)
+> [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandolopz@gmail.com)
 
 ---
