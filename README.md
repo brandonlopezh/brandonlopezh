@@ -7,16 +7,16 @@
 <!-- CUSTOMIZE: Change your tagline/bio here -->
 ## 🚀 About Me
 
-I'm your everyday passionate learner excited about building innovative solutions and learning new technologies. I love working with modern web technologies, AI/ML, and creating tools that make people's lives easier. I am also a father raising two kiddos and work hard everyday for them to be proud of their dad. 
+I'm your everyday passionate learner excited about building innovative solutions and exploring new technologies. I love working with modern web platforms, AI/ML, and developing tools that make people's lives easier. I am also a father raising two kiddos and work hard every day to make them proud.
 
 <!-- CUSTOMIZE: Change badge style from "for-the-badge" to "flat", "flat-square", or "plastic" -->
 
 ## 📈 What I'm Up To
 
-- 🔭 Currently working on: **LLM Evaluator & ArtyATS**
+- 🔭 Currently working on: **Currently working on: LLM Evaluator—building test frameworks to assess the quality and safety of AI-generated educational content**
 - 🌱 Learning: **Python**
-- 👯 Looking to collaborate on: **Educational, Community, or projects meant to make the world a better place**
-- ⚡ Fun fact: **I've been in the CommTech world providing great support to PR Specialists for 7 years. With a hidden technical super power (Information Systems Degree) up my sleeve, it's time to use my powers for the greater good**
+- 👯 Looking to collaborate on: **Looking to collaborate on educational, community, or other projects that aim to make the world a better place**
+- ⚡ Fun fact: **I've spent 7 years supporting PR Specialists in the CommTech world, and now I'm ready to use my Information Systems superpower for the greater good.**
 
 ## 📊 GitHub Stats
 
