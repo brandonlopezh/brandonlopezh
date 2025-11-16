@@ -17,6 +17,23 @@ CUSTOMIZATION GUIDE:
 
 I'm your everyday passionate learner excited about building innovative solutions and learning new technologies. I love working with modern web technologies, AI/ML, and creating tools that make people's lives easier. I am also a father raising two kiddos and work hard everyday for them to be proud of their dad. 
 
+<!-- CUSTOMIZE: Change badge style from "for-the-badge" to "flat", "flat-square", or "plastic" -->
+
+## 📈 What I'm Up To
+
+- 🔭 Currently working on: **LLM Evaluator & ArtyATS**
+- 🌱 Learning: **Python**
+- 👯 Looking to collaborate on: **Educational, Community projects**
+- ⚡ Fun fact: **I've been in the CommTech world providing great support to PR Specialists for 7 years. With a hidden technical super power (Information Systems Degree) up my sleeve, it's time to use my powers for the greater good**
+
+## 📊 GitHub Stats
+
+<!-- CUSTOMIZE: Change theme colors. Options: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonlopezh&theme=default&hide_border=false&background=FFFFFF&ring=8B5CF6&fire=14B8A6&currStreakLabel=6366F1&stroke=E5E7EB&sideNums=1F2937&sideLabels=6B7280&dates=9CA3AF" width="100%" />
+</div>
+
 <!-- CUSTOMIZE: Add/remove/change technologies. Find more badges at shields.io -->
 ## 🛠️ Technologies & Tools
 
@@ -35,15 +52,6 @@ TO CUSTOMIZE BADGES:
 - Change style: Replace "flat-square" with "flat", "for-the-badge", "plastic", or "social"
 -->
 
-## 📊 GitHub Stats
-
-<!-- CUSTOMIZE: Change theme colors. Options: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonlopezh&theme=default&hide_border=false&background=FFFFFF&ring=8B5CF6&fire=14B8A6&currStreakLabel=6366F1&stroke=E5E7EB&sideNums=1F2937&sideLabels=6B7280&dates=9CA3AF" width="100%" />
-</div>
-
-
 ## 🌐 Find Me Around The Web
 
 <!-- CUSTOMIZE: Add your social media links -->
@@ -53,14 +61,5 @@ TO CUSTOMIZE BADGES:
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandolopz@gmail.com)
 
 </div>
-
-<!-- CUSTOMIZE: Change badge style from "for-the-badge" to "flat", "flat-square", or "plastic" -->
-
-## 📈 What I'm Up To
-
-- 🔭 Currently working on: **LLM Evaluator & ArtyATS**
-- 🌱 Learning: **Python**
-- 👯 Looking to collaborate on: **Educational, Community projects**
-- ⚡ Fun fact: **I've been in the CommTech world providing great support to PR Specialists for 7 years. With a hidden technical super power (Information Systems Degreee) up my sleeve, it's time to use my powers for the greater good**
 
 ---
