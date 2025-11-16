@@ -1,16 +1,8 @@
-# Hi, I'm Brandon 👋
-
-<!-- 
-CUSTOMIZATION GUIDE:
-- Change background color: Replace "E8D5F2" with any hex color (without #)
-- Change text color: Replace "1a1a1a" with any hex color
-- Change your name and title below
-- Add your own avatar/image URL or remove the image section
--->
-
 <div align="center">
   <img src="https://github.com/brandonlopezh/brandonlopezh/blob/main/top%20header.png" width="100%"/>
 </div>
+
+# Hi, I'm Brandon 👋
 
 <!-- CUSTOMIZE: Change your tagline/bio here -->
 ## 🚀 About Me
@@ -37,25 +29,29 @@ I'm your everyday passionate learner excited about building innovative solutions
 <!-- CUSTOMIZE: Add/remove/change technologies. Find more badges at shields.io -->
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 <!-- 
 TO CUSTOMIZE BADGES:
-- Format: ![Name](https://img.shields.io/badge/-Name-HEXCOLOR?style=flat-square&logo=logoname&logoColor=white)
+- Format: ![Name](https://img.shields.io/badge/Name-HEXCOLOR?style=for-the-badge&logo=logoname&logoColor=white)
 - Find logos at: https://simpleicons.org/
 - Change colors: Replace HEXCOLOR with any hex (without #)
-- Change style: Replace "flat-square" with "flat", "for-the-badge", "plastic", or "social"
+- Change style: Replace "for-the-badge" with "flat", "flat-square", or "plastic" for different looks
 -->
 
 ## 🌐 Find Me Around The Web
 
 <!-- CUSTOMIZE: Add your social media links -->
-<div align="center">
+<div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjlopez/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandolopz@gmail.com)
