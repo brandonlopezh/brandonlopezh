@@ -9,13 +9,13 @@ CUSTOMIZATION GUIDE:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8D5F2,100:D5E8F2&height=200&section=header&text=BRANDON%20LOPEZ&fontSize=50&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://github.com/brandonlopezh/brandonlopezh/blob/main/top%20header.png" width="100%"/>
 </div>
 
 <!-- CUSTOMIZE: Change your tagline/bio here -->
 ## 🚀 About Me
 
-I'm your everyday passionate learner excited about building innovative solutions and learning new technologies. I love working with modern web technologies, AI/ML, and creating tools that make people's lives easier.
+I'm your everyday passionate learner excited about building innovative solutions and learning new technologies. I love working with modern web technologies, AI/ML, and creating tools that make people's lives easier. I am also a father raising to kiddos and would love for them to be proud of their dad. 
 
 <!-- CUSTOMIZE: Add/remove/change technologies. Find more badges at shields.io -->
 ## 🛠️ Technologies & Tools
@@ -39,29 +39,10 @@ TO CUSTOMIZE BADGES:
 
 <!-- CUSTOMIZE: Change theme colors. Options: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandonlopezh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E8D5F2&icon_color=D5E8F2&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonlopezh&theme=tokyonight&hide_border=true&background=0D1117&ring=E8D5F2&fire=D5E8F2&currStreakLabel=D5E8F2" width="48%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonlopezh&theme=tokyonight&hide_border=true&background=0D1117&ring=E8D5F2&fire=D5E8F2&currStreakLabel=D5E8F2" width="100%" />
 </div>
 
-<!-- 
-TO CUSTOMIZE STATS COLORS:
-- bg_color: Background color
-- title_color: Title text color  
-- icon_color: Icon color
-- text_color: Main text color
-- All colors are hex without #
--->
-
-## � Featured Projects
-
-<!-- CUSTOMIZE: Add your own projects -->
-<div align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brandonlopezh&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E8D5F2&icon_color=D5E8F2&text_color=C9D1D9)](https://github.com/brandonlopezh/your-repo-name)
-
-</div>
-
-<!-- TO ADD MORE PROJECTS: Copy the above block and change the repo name -->
 
 ## 🌐 Find Me Around The Web
 
@@ -83,11 +64,3 @@ TO CUSTOMIZE STATS COLORS:
 - ⚡ Fun fact: **I've been in the CommTech world providing great support to PR Specialists for 7 years. With a hidden technical super power (Information Systems Degreee) up my sleeve, it's time to use my powers for the greater good**
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8D5F2,100:D5E8F2&height=120&section=footer" width="100%"/>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/brandonlopezh/count.svg)
-  
-  <!-- CUSTOMIZE: Change gradient colors in the footer wave -->
-</div>
