@@ -40,7 +40,7 @@ TO CUSTOMIZE BADGES:
 <!-- CUSTOMIZE: Change theme colors. Options: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonlopezh&theme=tokyonight&hide_border=true&background=0D1117&ring=E8D5F2&fire=D5E8F2&currStreakLabel=D5E8F2" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonlopezh&theme=default&hide_border=false&background=FFFFFF&ring=8B5CF6&fire=14B8A6&currStreakLabel=6366F1&stroke=E5E7EB&sideNums=1F2937&sideLabels=6B7280&dates=9CA3AF" width="100%" />
 </div>
 
 
