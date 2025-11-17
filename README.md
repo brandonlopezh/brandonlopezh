@@ -21,7 +21,7 @@ I'm your everyday passionate learner excited about building innovative solutions
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=brandonlopezh&theme=github-dark-dimmed&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=brandonlopezh&theme=youtube-dark&card_width=1000&card_height=500)](https://git.io/streak-stats)
 <!-- CUSTOMIZE: Add/remove/change technologies. Find more badges at shields.io -->
 ## 🛠️ Technologies & Tools
 
