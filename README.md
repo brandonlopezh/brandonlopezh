@@ -12,8 +12,8 @@ I'm your everyday passionate learner excited about building innovative solutions
 
 - 🔭 **Currently working on:** 
 
-- [LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test)—building test frameworks to assess the quality and safety of AI-generated educational content (see repo)
-- [ATS bot](https://github.com/brandonlopezh/ArtyATSbot)-bringing my gemini gem idea to life, taking ATS to the next level and beating the bots.
+- [LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test)–building test frameworks to assess the quality and safety of AI-generated educational content (see repo)
+- [ATS bot](https://github.com/brandonlopezh/ArtyATSbot)–bringing my gemini gem idea to life, taking ATS to the next level and beating the bots.
 
 - 🌱 **Learning:** Python
 - 👯 **Looking to collaborate on:** Educational, community, or other projects that aim to make the world a better place
