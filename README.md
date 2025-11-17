@@ -41,7 +41,7 @@ I'm your everyday passionate learner excited about building innovative solutions
 <!-- CUSTOMIZE: Add/remove/change technologies. Find more badges at shields.io -->
 ## 🛠️ Technologies & Tools
 
-<div align="center">
+<div align="left">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
