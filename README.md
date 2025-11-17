@@ -1,6 +1,7 @@
 
 # Hi, I'm Brandon 👋
-
+> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjlopez/)
+> [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandolopz@gmail.com)
 <!-- CUSTOMIZE: Change your tagline/bio here -->
 ## 🚀 About Me
 
@@ -43,14 +44,7 @@ TO CUSTOMIZE BADGES:
 - Change style: Replace "for-the-badge" with "flat", "flat-square", or "plastic" for different looks
 -->
 
-## 🌐 How to reach me
-
-<!-- CUSTOMIZE: Add your social media links -->
-
-> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjlopez/)
-> [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandolopz@gmail.com)
-
----
+-----
 
 ## 📊 GitHub Stats
 
