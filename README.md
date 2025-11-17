@@ -19,14 +19,6 @@ I'm your everyday passionate learner excited about building innovative solutions
 - 🧳 **Background:** I've spent 7 years supporting PR Specialists in the CommTech world, and now I'm ready to use my Information Systems superpower for the greater good.
 - ⚡ **Fun Fact:** I love to solve problems. Arguing with AI and achieving goals is a fun hobby for me. 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=brandonlopezh&theme=discord-old-blurple&card_width=600&card_height=300" alt="GitHub Streak" />
-  </a>
-</div>
-
 <!-- CUSTOMIZE: Add/remove/change technologies. Find more badges at shields.io -->
 ## 🛠️ Technologies & Tools
 
@@ -59,3 +51,12 @@ TO CUSTOMIZE BADGES:
 > [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandolopz@gmail.com)
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=brandonlopezh&theme=discord-old-blurple&card_width=600&card_height=300" alt="GitHub Streak" />
+  </a>
+</div>
+
