@@ -16,11 +16,11 @@ I'm your everyday passionate learner excited about building innovative solutions
 <td width="50%" valign="top">
 
 ### 🔭 Currently Working On
-- [LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test) – Building test frameworks to assess the quality and safety of AI-generated educational content
-- [ATS bot](https://github.com/brandonlopezh/ArtyATSbot) – Bringing my gemini gem idea to life, taking ATS to the next level and beating the bots
+- [LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test) – Building test frameworks to assess the quality and safety of AI-generated educational content.
+- [ATS bot](https://github.com/brandonlopezh/ArtyATSbot) – Bringing my gemini gem idea to life, taking ATS to the next level and beating the bots.
 
 ### 👯 Looking to Collaborate On
-- Educational, community, or other projects that aim to make the world a better place
+- Educational, community, or other projects that aim to make the world a better place.
 
 ### 🌱 Learning
 - Python
@@ -29,7 +29,7 @@ I'm your everyday passionate learner excited about building innovative solutions
 <td width="50%" valign="top">
 
 ### 🧳 Background
-- I've spent 7 years supporting PR Specialists in the CommTech world, and now I'm ready to use my Information Systems superpower for the greater good
+- I've spent 7 years supporting PR Specialists in the CommTech world, and now I'm ready to use my Information Systems superpower for the greater good.
 
 ### ⚡ Fun Fact
 - I love to solve problems. Arguing with AI and achieving goals is a fun hobby for me. 
@@ -68,7 +68,7 @@ TO CUSTOMIZE BADGES:
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=brandonlopezh&theme=discord-old-blurple&card_width=800&card_height=400" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=brandonlopezh&theme=discord-old-blurple&card_width=700&card_height=400" alt="GitHub Streak" />
   </a>
 </div>
 
