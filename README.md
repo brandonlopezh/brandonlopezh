@@ -28,7 +28,7 @@ I'm your everyday passionate learner excited about building innovative solutions
 - Educational, community, or other projects that aim to make the world a better place.
 
 ### 🌱 Learning
-- Python
+- Python, TypeScript, Javascript
 
 </td>
 <td width="50%" valign="top">
@@ -54,6 +54,7 @@ I'm your everyday passionate learner excited about building innovative solutions
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
