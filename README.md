@@ -34,7 +34,7 @@ I'm your everyday passionate learner excited about building innovative solutions
 <td width="50%" valign="top">
 
 ### 🧳 Background
-- I've spent 7 years supporting PR Specialists in the CommTech world, and now I'm ready to use my Information Systems superpower for the greater good.
+- I've spent 7 years supporting PR Specialists in the CommTech world, and I'm ready to use my Information Systems superpower for the greater good.
 
 ### ⚡ Fun Fact
 - I love to solve problems. Arguing with AI and achieving goals is a fun hobby for me. 
