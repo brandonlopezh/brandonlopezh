@@ -10,7 +10,7 @@
 <!-- CUSTOMIZE: Change your tagline/bio here -->
 ## 🚀 About Me
 
-I'm your everyday passionate learner excited about building innovative solutions and exploring new technologies. I love working with modern web platforms, AI/ML, and developing tools that make people's lives easier. I am also a father raising two kiddos and work hard every day to make them proud.
+I'm your everyday passionate learner excited about building innovative solutions and exploring new technologies. I enjoy working with modern web platforms, AI/ML, and developing tools that make people's lives easier. I am also a father raising two kiddos and work hard every day to make them proud.
 
 <!-- CUSTOMIZE: Change badge style from "for-the-badge" to "flat", "flat-square", or "plastic" -->
 
@@ -23,21 +23,22 @@ I'm your everyday passionate learner excited about building innovative solutions
 ### 🔭 Currently Working On
 - [LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test) – Building test frameworks to assess the quality and safety of AI-generated educational content.
 - [ATS bot](https://github.com/brandonlopezh/ArtyATSbot) – Bringing my gemini gem idea to life, taking ATS to the next level and beating the bots.
+- [WCAG Table Formatter](https://github.com/brandonlopezh/WCAG-TABLE-FORMATTER) - Making WCAG styling easier for tables to be more accesible
 
 ### 👯 Looking to Collaborate On
 - Educational, community, or other projects that aim to make the world a better place.
 
-### 🌱 Learning
+### 🌱 Learning/Working with
 - Python, TypeScript, Javascript
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧳 Background
-- I've spent 7 years supporting PR Specialists in the CommTech world, and I'm ready to use my Information Systems superpower for the greater good.
+- I've spent 7 years supporting PR Specialists in the CommTech world, and I'm ready to combine my support skills with my tehcnical experience to amplify client experiences.
 
 ### ⚡ Fun Fact
-- I love to solve problems. Arguing with AI and achieving goals is a fun hobby for me. 
+- Arguing with AI is a fun hobby for me. Like arguing with your super smart friend. 
 
 </td>
 </tr>
