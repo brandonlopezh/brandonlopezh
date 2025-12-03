@@ -5,7 +5,7 @@ I'm your everyday passionate learner excited about building innovative solutions
 
 <!-- CUSTOMIZE: Change badge style from "for-the-badge" to "flat", "flat-square", or "plastic" -->
 
-## 📈 Info
+## About Me
 <table>
 <tr>
 <td width="50%" valign="top">
