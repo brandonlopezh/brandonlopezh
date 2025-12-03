@@ -1,21 +1,11 @@
 
 # Hi, I'm Brandon 👋
-<div align="right">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjlopez/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandolopz@gmail.com)
-
-</div>
-
-<!-- CUSTOMIZE: Change your tagline/bio here -->
-## 🚀 About Me
 
 I'm your everyday passionate learner excited about building innovative solutions and exploring new technologies. I enjoy working with modern web platforms, AI/ML, and developing tools that make people's lives easier. I am also a father raising two kiddos and work hard every day to make them proud.
 
 <!-- CUSTOMIZE: Change badge style from "for-the-badge" to "flat", "flat-square", or "plastic" -->
 
 ## 📈 Info
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -37,14 +27,27 @@ I'm your everyday passionate learner excited about building innovative solutions
 ### 🧳 Background
 - I've spent 7 years supporting PR Specialists in the CommTech world, and I'm ready to combine my support skills with my tehcnical experience to amplify client experiences.
 
+### 🧑🏻‍🏫 Education
+- I have a Bachelor's in Business Information Systems
+- Currently taking coursework for an AI engineer learning path
+
 ### ⚡ Fun Fact
-- Arguing with AI is a fun hobby for me. Like arguing with your super smart friend. 
+- Arguing with AI is actually fun for me. Almost like arguing with a super smart friend that thinks they are always right. 
 
 </td>
 </tr>
 </table>
 
+## How to Reach me
+
+<div>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjlopez/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandolopz@gmail.com)
+
+</div>
 <!-- CUSTOMIZE: Add/remove/change technologies. Find more badges at shields.io -->
+
 ## 🛠️ Technologies & Tools
 
 <div align="left">
@@ -60,22 +63,3 @@ I'm your everyday passionate learner excited about building innovative solutions
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
-
-<!-- 
-TO CUSTOMIZE BADGES:
-- Format: ![Name](https://img.shields.io/badge/Name-HEXCOLOR?style=for-the-badge&logo=logoname&logoColor=white)
-- Find logos at: https://simpleicons.org/
-- Change colors: Replace HEXCOLOR with any hex (without #)
-- Change style: Replace "for-the-badge" with "flat", "flat-square", or "plastic" for different looks
--->
-
------
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=brandonlopezh&theme=discord-old-blurple&card_width=700&card_height=400" alt="GitHub Streak" />
-  </a>
-</div>
-
