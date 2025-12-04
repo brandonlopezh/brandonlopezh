@@ -23,7 +23,7 @@ I'm your everyday passionate learner excited about building innovative solutions
     - [Current Repo Work](https://github.com/brandonlopezh/LLM-engineering-work)
 
 ### 🌱 Learning/Working with
-- Python, TypeScript, Javascript
+- Python, TypeScript, Javascript, Jupyter Notebook
 
 </td>
 <td width="50%" valign="top">
