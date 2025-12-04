@@ -15,8 +15,12 @@ I'm your everyday passionate learner excited about building innovative solutions
 - [ATS bot](https://github.com/brandonlopezh/ArtyATSbot) – Bringing my gemini gem idea to life, taking ATS to the next level and beating the bots.
 - [WCAG Table Formatter](https://github.com/brandonlopezh/WCAG-TABLE-FORMATTER) - Making WCAG styling easier for tables to be more accesible
 
-### 👯 Looking to Collaborate On
-- Educational, community, or other projects that aim to make the world a better place.
+
+### 🧑🏻‍🏫 Education
+- Bachelor's in Business Information Systems
+- Currently taking AI Engineer Course
+    - [Become an LLM Engineer in 8 weeks: Build and deploy 8 LLM apps, mastering Generative AI, RAG, LoRA and AI Agents.](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?couponCode=PLOYALTY0923)
+    - [Current Repo Work](https://github.com/brandonlopezh/LLM-engineering-work)
 
 ### 🌱 Learning/Working with
 - Python, TypeScript, Javascript
@@ -27,9 +31,8 @@ I'm your everyday passionate learner excited about building innovative solutions
 ### 🧳 Background
 - I've spent 7 years supporting PR Specialists in the CommTech world, and I'm ready to combine my support skills with my tehcnical experience to amplify client experiences.
 
-### 🧑🏻‍🏫 Education
-- I have a Bachelor's in Business Information Systems
-- Currently taking coursework for an AI engineer learning path
+### 👯 Looking to Collaborate On
+- Educational, community, or other projects that aim to make the world a better place.
 
 ### ⚡ Fun Fact
 - Arguing with AI is actually fun for me. Almost like arguing with a super smart friend that thinks they are always right. 
