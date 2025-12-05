@@ -17,10 +17,11 @@ I'm your everyday passionate learner excited about building innovative solutions
 
 
 ### 🧑🏻‍🏫 Education
-- Bachelor's in Business Information Systems
-- Currently taking AI Engineer Course
-    - [Become an LLM Engineer in 8 weeks: Build and deploy 8 LLM apps, mastering Generative AI, RAG, LoRA and AI Agents.](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?couponCode=PLOYALTY0923)
+- Bachelor's in Business Information Systems at UT Arlington
+- [Current AI Engineer Course](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?couponCode=PLOYALTY0923)
     - [Current Repo Work](https://github.com/brandonlopezh/LLM-engineering-work)
+- [Current Agentic AI Python Course](https://www.udemy.com/course/full-stack-ai-with-python/)
+- [Python Bootcamp Course](https://www.udemy.com/course/100-days-of-code/)
 
 ### 🌱 Learning/Working with
 - Python, TypeScript, Javascript, Jupyter Notebook
