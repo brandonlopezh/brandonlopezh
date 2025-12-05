@@ -13,7 +13,7 @@ I'm your everyday passionate learner excited about building innovative solutions
 ### 🔭 Currently Working On
 - [LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test) – Building test frameworks to assess the quality and safety of AI-generated educational content.
 - [ATS bot](https://github.com/brandonlopezh/ArtyATSbot) – Bringing my gemini gem idea to life, taking ATS to the next level and beating the bots.
-- [WCAG Table Formatter](https://github.com/brandonlopezh/WCAG-TABLE-FORMATTER) - Making WCAG styling easier for tables to be more accesible
+- [WCAG Table Formatter](https://github.com/brandonlopezh/WCAG-TABLE-FORMATTER) - Making WCAG styling easier for tables to be more accessible
 
 
 ### 🧑🏻‍🏫 Education
@@ -30,7 +30,7 @@ I'm your everyday passionate learner excited about building innovative solutions
 <td width="50%" valign="top">
 
 ### 🧳 Background
-- I've spent 7 years supporting PR Specialists in the CommTech world, and I'm ready to combine my support skills with my tehcnical experience to amplify client experiences.
+- I've spent 7 years supporting PR Specialists in the CommTech world, and I'm ready to combine my support skills with my technical experience to amplify client experiences.
 
 ### 👯 Looking to Collaborate On
 - Educational, community, or other projects that aim to make the world a better place.
