@@ -1,7 +1,7 @@
 
 # Hi, I'm Brandon 👋
 
-I'm your everyday passionate learner excited about building innovative solutions and exploring new technologies. I enjoy working with modern web platforms, AI/ML, and developing tools that make people's lives easier. I am also a father raising two kiddos and work hard every day to make them proud.
+I'm a passionate learner with dad energy excited about building innovative solutions and exploring new technologies. I enjoy working with modern web platforms, AI/ML, and developing tools that make people's lives easier. I am father raising two kiddos, sadly the system/user prompts don't seem to work on them(joking).
 
 <!-- CUSTOMIZE: Change badge style from "for-the-badge" to "flat", "flat-square", or "plastic" -->
 
@@ -61,8 +61,9 @@ I'm your everyday passionate learner excited about building innovative solutions
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
