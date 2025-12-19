@@ -1,7 +1,7 @@
 
 # Hi, I'm Brandon 👋
 
-I'm a passionate learner with dad energy excited about building innovative solutions and exploring new technologies. I enjoy working with modern web platforms, AI/ML, and developing tools that make people's lives easier. I am father raising two kiddos, sadly the system/user prompts don't seem to work on them(joking).
+I'm a passionate learner with dad energy excited about building innovative solutions and exploring new technologies. I enjoy working with modern web platforms, AI/ML, and developing tools that make people's lives easier. I am father raising two kiddos, sadly system/user prompts don't seem to work on them(joking).
 
 <!-- CUSTOMIZE: Change badge style from "for-the-badge" to "flat", "flat-square", or "plastic" -->
 
