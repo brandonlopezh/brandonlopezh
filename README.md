@@ -12,7 +12,7 @@ I'm a passionate learner with dad energy excited about building innovative solut
 
 ### 🔭 Currently Working On
 - [LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test) – Building test frameworks to assess the quality and safety of AI-generated educational content.
-- [ATS bot](https://github.com/brandonlopezh/ArtyATSbot) – Bringing my gemini gem idea to life, taking ATS to the next level and beating the bots.
+- [ATS bot](https://github.com/brandonlopezh/ArtyATSbot) – Bringing my Gemini gem idea to life, taking ATS to the next level and beating the bots beyond keywords.
 - [WCAG Table Formatter](https://github.com/brandonlopezh/WCAG-TABLE-FORMATTER) - Making WCAG styling easier for tables to be more accessible
 
 
