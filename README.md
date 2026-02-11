@@ -1,7 +1,7 @@
 
 # Hi, I'm Brandon 👋
 
-I am passionate with dad energy excited about building innovative solutions and exploring new technologies. I enjoy working with modern web platforms, AI/ML, and developing tools that make people's lives easier. I am a father raising two kiddos. Unfortunately, system/user prompts don't seem to work on them.(joking btw)
+I am passionate with dad energy excited about building innovative solutions and exploring new technologies. I enjoy working with modern web platforms, AI/ML, and developing tools that make people's lives easier. I am a father raising two kiddos. Unfortunately, system/user prompts don't seem to work on them. 😅
 
 <!-- CUSTOMIZE: Change badge style from "for-the-badge" to "flat", "flat-square", or "plastic" -->
 
@@ -30,7 +30,7 @@ I am passionate with dad energy excited about building innovative solutions and 
 <td width="50%" valign="top">
 
 ### 🧳 Background
-- I've spent 7 years supporting PR Specialists in the CommTech world, and I'm ready to combine my support skills with my technical experience to amplify client experiences.
+- I've spent 8 years supporting PR Specialists in the CommTech world, and I'm ready to combine my support skills with my technical experience to amplify client experiences.
 
 ### 👯 Looking to Collaborate On
 - Educational, community, or other projects that aim to make the world a better place.
