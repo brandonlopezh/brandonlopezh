@@ -18,8 +18,6 @@ I am passionate with dad energy excited about building innovative solutions and 
 
 ### 🧑🏻‍🏫 Education
 - Bachelor's in Business Information Systems at UT Arlington
-- [Current AI Engineer Course](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?couponCode=PLOYALTY0923)
-    - [Current Repo Work](https://github.com/brandonlopezh/LLM-engineering-work)
 - [Current Agentic AI Python Course](https://www.udemy.com/course/full-stack-ai-with-python/)
 - [Python Bootcamp Course](https://www.udemy.com/course/100-days-of-code/)
 
