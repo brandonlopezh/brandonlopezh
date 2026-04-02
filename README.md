@@ -6,7 +6,7 @@ Currently raising two kiddos where, unfortunately they do not follow their syste
 
 ## 🧳 My Journey
 
-**Background:** I've spent **8 years** supporting PR Specialists in the CommTech world. This experience taught me how to bridge the gap between complex technical systems and high-stakes communication needs. I'm now combining that support-first mindset with modern AI and web development to build tools that actually make people's lives easier.
+I've spent **8 years** supporting PR Specialists in the CommTech world. This experience taught me how to bridge the gap between complex technical systems and high-stakes communication needs. I'm now combining that support-first mindset with modern AI and web development to build tools that actually make people's lives easier.
 
 **Education & Growth:**
 - **Business Information Systems** | UT Arlington (BBA)
