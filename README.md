@@ -1,8 +1,6 @@
 # Hi, I'm Brandon 👋
 
-I'm a Support team manager and father of two with a passion for building innovative, AI-driven solutions. I bring hispanic dad energy where learning new things and providing relentless support is second-nature. 
-
-Currently raising two kiddos where, unfortunately they do not follow their system and user prompts. 😅
+I'm a Support team manager and father of two with a passion for building innovative, AI-driven solutions. I bring hispanic dad energy where learning new things and providing relentless support is second-nature. Though my two kiddos unfortunately don't follow their system prompts. 😅
 
 ## 🧳 My Journey
 
@@ -15,9 +13,11 @@ I've spent **8 years** supporting PR Specialists in the CommTech world. This exp
 
 ## 🔭 Currently Building
 
-- **[LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test)** – Developing automated test frameworks to validate the quality and safety of AI-generated educational content.
-- **[ATS Bot](https://github.com/brandonlopezh/ArtyATSbot)** – Reimagining the recruitment experience by leveraging Gemini to move beyond keywords and focus on true candidate potential.
-- **[WCAG Table Formatter](https://github.com/brandonlopezh/WCAG-TABLE-FORMATTER)** – An accessibility-first tool designed to simplify WCAG-compliant styling for complex data tables.
+| Project | Description | Stack |
+|---|---|---|
+| **[LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test)** | Automated test frameworks to validate quality and safety of AI-generated educational content | Python, Hugging Face |
+| **[ATS Bot](https://github.com/brandonlopezh/ArtyATSbot)** | Reimagining recruitment by leveraging Gemini to move beyond keywords and focus on true candidate potential | Python, Gemini |
+| **[WCAG Table Formatter](https://github.com/brandonlopezh/WCAG-TABLE-FORMATTER)** | Accessibility-first tool to simplify WCAG-compliant styling for complex data tables | JavaScript, HTML, CSS |
 
 ## 🛠️ Technologies & Tools
 
@@ -33,3 +33,7 @@ I've spent **8 years** supporting PR Specialists in the CommTech world. This exp
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandonlopezh)
