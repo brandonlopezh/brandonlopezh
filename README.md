@@ -15,8 +15,11 @@ I've spent **8 years** supporting PR Specialists in the CommTech world. This exp
 
 | Project | Description | Stack |
 |---|---|---|
+| **[Support Guru](https://github.com/brandonlopezh/support-guru)** | AI-powered knowledge base platform with guided article creation, AI refinement, and local LLM support via Ollama | React, TypeScript, Vite, Tailwind |
+| **[Sigo Aqui](https://github.com/brandonlopezh/sigo-aqui)** | Digital legacy app that maps personality, values, and voice into a structured profile to power a personal AI persona | HTML, JavaScript |
+| **[HTMLClean](https://github.com/brandonlopezh/HTMLClean)** | HTML sanitizer for news releases that strips unsafe markup and normalizes formatting for CMS WYSIWYG editors | JavaScript, HTML |
 | **[LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test)** | Automated test frameworks to validate quality and safety of AI-generated educational content | Python, Hugging Face |
-| **[ATS Bot](https://github.com/brandonlopezh/ArtyATSbot)** | Reimagining recruitment by leveraging Gemini to move beyond keywords and focus on true candidate potential | Python, Gemini |
+| **[ATS Bot](https://github.com/brandonlopezh/ArtyATSbot)** | Reimagining recruitment by leveraging Gemini to move beyond keywords and focus on true candidate potential | Next.js, Gemini |
 | **[WCAG Table Formatter](https://github.com/brandonlopezh/WCAG-TABLE-FORMATTER)** | Accessibility-first tool to simplify WCAG-compliant styling for complex data tables | JavaScript, HTML, CSS |
 
 ## 🛠️ Technologies & Tools
@@ -31,7 +34,7 @@ I've spent **8 years** supporting PR Specialists in the CommTech world. This exp
 
 **Tools & Workflow**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 
 ## 🤝 Let's Connect
