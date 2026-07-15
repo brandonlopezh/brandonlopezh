@@ -8,8 +8,7 @@ I've spent **8 years** supporting PR Specialists in the CommTech world. This exp
 
 **Education & Growth:**
 - **Business Information Systems** | UT Arlington (BBA)
-- **Agentic AI & Python** | Udemy (In Progress)
-- **100 Days of Code (Python)** | Udemy Bootcamp
+- **Agentic AI & Python**
 
 ## 🔭 Currently Building
 
