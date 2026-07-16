@@ -14,12 +14,12 @@ I've spent **8 years** supporting PR Specialists in the CommTech world. This exp
 
 | Project | Description | Stack | Demo / Status |
 |---|---|---|---|
-| **[Support Guru](https://github.com/brandonlopezh/support-guru)** | AI-powered knowledge base platform with guided article creation, AI refinement, and local LLM support via Ollama | React, TypeScript, Vite, Tailwind | [Demo](https://support-guru.example.com) |
-| **[Sigo Aqui](https://github.com/brandonlopezh/sigo-aqui)** | Digital legacy app that maps personality, values, and voice into a structured profile to power a personal AI persona | HTML, JavaScript | [Demo](https://sigo-aqui.example.com) |
-| **[HTMLClean](https://github.com/brandonlopezh/HTMLClean)** | HTML sanitizer for news releases that strips unsafe markup and normalizes formatting for CMS WYSIWYG editors | JavaScript, HTML | [Demo](https://htmlclean.example.com) |
-| **[LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test)** | Automated test frameworks to validate quality and safety of AI-generated educational content | Python, Hugging Face | [Demo](https://llm-evaluator.example.com) |
-| **[ATS Bot](https://github.com/brandonlopezh/ArtyATSbot)** | Reimagining recruitment by leveraging Gemini to move beyond keywords and focus on true candidate potential | Next.js, Gemini | [Demo](https://ats-bot.example.com) |
-| **[WCAG Table Formatter](https://github.com/brandonlopezh/WCAG-TABLE-FORMATTER)** | Accessibility-first tool to simplify WCAG-compliant styling for complex data tables | JavaScript, HTML, CSS | [Demo](https://wcag-table.example.com) |
+| **[Support Guru](https://github.com/brandonlopezh/support-guru)** | AI-powered knowledge base platform with guided article creation, AI refinement, and local LLM support via Ollama | React, TypeScript, Vite, Tailwind | *Local Setup (Ollama)* |
+| **[Sigo Aqui](https://github.com/brandonlopezh/sigo-aqui)** | Digital legacy app that maps personality, values, and voice into a structured profile to power a personal AI persona | HTML, JavaScript | [Live Demo](https://sigo-aqui.vercel.app/) |
+| **[HTMLClean](https://github.com/brandonlopezh/HTMLClean)** | HTML sanitizer for news releases that strips unsafe markup and normalizes formatting for CMS WYSIWYG editors | JavaScript, HTML | *Local Setup* |
+| **[LLM Evaluator](https://github.com/brandonlopezh/LLM-evaluator-test)** | Automated test frameworks to validate quality and safety of AI-generated educational content | Python, Hugging Face | *Local Setup* |
+| **[ATS Bot](https://github.com/brandonlopezh/ArtyATSbot)** | Reimagining recruitment by leveraging Gemini to move beyond keywords and focus on true candidate potential | Next.js, Gemini | *Local Setup* |
+| **[WCAG Table Formatter](https://github.com/brandonlopezh/WCAG-TABLE-FORMATTER)** | Accessibility-first tool to simplify WCAG-compliant styling for complex data tables | JavaScript, HTML, CSS | *Local Setup* |
 
 ## 🛠️ Technologies & Tools
 
