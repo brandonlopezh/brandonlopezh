@@ -1,6 +1,6 @@
 # Hi, I'm Brandon 👋
 
-I'm a **Technical Support Manager** and father of two with a passion for building innovative, AI-driven solutions. I bring hispanic dad energy where learning new things and providing relentless support is second-nature. Though my two kiddos unfortunately don't follow their system prompts. 😅
+I'm a **Support Manager** and father of two with a passion for building innovative, AI-driven solutions. I bring hispanic dad energy where learning new things and providing relentless support is second-nature. Though my two kiddos unfortunately don't follow their system prompts. 😅
 
 ## 🧳 My Journey
 
